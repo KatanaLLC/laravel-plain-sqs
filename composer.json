@@ -1,9 +1,9 @@
 {
-    "name": "dusterio/laravel-plain-sqs",
+    "name": "katanallc/laravel-plain-sqs",
     "type": "library",
     "description": "Custom SQS connector for Laravel that supports custom format JSON",
     "keywords": ["php","laravel","lumen","sqs","aws"],
-    "homepage": "https://github.com/dusterio/laravel-plain-sqs",
+    "homepage": "https://github.com/KatanaLLC/laravel-plain-sqs",
     "license": "MIT",
     "authors": [
         {
